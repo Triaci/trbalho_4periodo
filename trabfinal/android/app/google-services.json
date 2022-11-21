@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "628312841473",
+    "project_id": "trabalho4periodo-7182f",
+    "storage_bucket": "trabalho4periodo-7182f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628312841473:android:c251fd1e2f724589bd0f00",
+        "android_client_info": {
+          "package_name": "com.example.trabfinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "628312841473-bdrae7t4li3fpr7kkluncti3sjuirecg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFN2EXhgt4MMJ3pWIZtXLCbZKtjLgquW8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "628312841473-bdrae7t4li3fpr7kkluncti3sjuirecg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
